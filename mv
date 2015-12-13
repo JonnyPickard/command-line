@@ -1,0 +1,3 @@
+The mv command is used to move files between directories.
+1, mv <file to be moved> <location to move it to> 
+2, mv <file to be moved> <new name of file> (if in same directory)
